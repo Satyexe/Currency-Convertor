@@ -18,7 +18,7 @@ A simple and efficient Currency Converter Web Application that allows users to c
 
 🔁 Swap button to interchange "From" and "To" currencies
 
-###🛠️ Tech Stack
+### 🛠️ Tech Stack
 Component	Technology
 Frontend	HTML, CSS, JavaScript
 API Used	ExchangeRate API (or any public currency API)
@@ -30,7 +30,7 @@ Deployment	GitHub Pages / Netlify
 /assets/screenshot1.png
 /assets/screenshot2.png
 
-###📦 Installation & Setup
+### 📦 Installation & Setup
 1️⃣ Clone the repository
 git clone https://github.com/your-username/currency-converter.git
 cd currency-converter
@@ -66,10 +66,10 @@ converted = amount × rate
 │   └── screenshot.png
 └── README.md
 
-###🔗 API Used
+### 🔗 API Used
 
 https://api.exchangerate-api.com/v4/latest/USD
 
-###🌐 Live Demo
+### 🌐 Live Demo
 
 👉 https://your-username.github.io/currency-converter/

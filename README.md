@@ -12,7 +12,7 @@ A simple and efficient Currency Converter Web Application that allows users to c
 
 ⚡ Fast, accurate, and lightweight
 
-📱 Responsive design (works on PC & mobile)
+📱 Responsive design 
 
 🧮 Auto-calculation during currency input
 
@@ -25,14 +25,13 @@ API Used	ExchangeRate API (or any public currency API)
 Deployment	GitHub Pages / Netlify
 📸 Screenshots
 
-(Add your screenshots here later)
+<img width="1784" height="944" alt="image" src="https://github.com/user-attachments/assets/85be12be-ef5e-4a47-8e12-e9eb861f484f" />
+<img width="1784" height="944" alt="image" src="https://github.com/user-attachments/assets/faa22e67-63d8-45f7-9328-0fb0c050357a" />
 
-/assets/screenshot1.png
-/assets/screenshot2.png
 
 ### 📦 Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/Satyexe/Currency-Converter.git
 cd currency-converter
 
 2️⃣ Open the project
@@ -62,14 +61,15 @@ converted = amount × rate
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   └── screenshot.png
+├── code.js
 └── README.md
 
 ### 🔗 API Used
 
-https://api.exchangerate-api.com/v4/latest/USD
+[https://api.exchangerate-api.com/v4/latest/USD](https://flagsapi.com/{countrycode}/flat/64.png)
+https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/
+
 
 ### 🌐 Live Demo
 
-👉 https://your-username.github.io/currency-converter/
+👉 

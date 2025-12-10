@@ -1,4 +1,4 @@
-### Currency-Convertor🌍 Currency Converter
+### 🌍 Currency Converter
 
 A simple and efficient Currency Converter Web Application that allows users to convert between different currencies in real-time using live exchange rates.
 
